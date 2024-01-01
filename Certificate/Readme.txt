@@ -1,1 +1,1 @@
-This folder contains the certificate from Coursera
+This folder contains the Google certificate from Coursera
