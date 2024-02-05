@@ -1,1 +1,1 @@
-This folder contains the professional Google certificate about "Advanced Data Analytics" from Coursera
+This folder contains the professional Google certificate for "Google Advanced Data Analytics" course from Coursera. Other folders present in this folder contain the respective certificate of courses which were part of the professional certificate.
