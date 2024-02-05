@@ -1,1 +1,1 @@
-This folder contains the jupyter notebook of capstone project for "Google Adavnced Data Analytics" course on Coursera.
+This folder contains the work done for capstone project for "Google Advanced Data Analytics" course on Coursera.
