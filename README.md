@@ -1,0 +1,1 @@
+This professional certificate from Google is about 6 months of work and contains 10 different courses. Details of the certificate are mentioned [Here](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
